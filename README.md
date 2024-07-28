@@ -1,2 +1,2 @@
 # Data-Science-Fundamentals
-Data Science 
+Data Science Fundamentals Prepared by Taha Er 
